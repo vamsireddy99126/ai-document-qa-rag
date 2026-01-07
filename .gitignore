@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/uploaded_docs/
+faiss_index/
+.DS_Store
